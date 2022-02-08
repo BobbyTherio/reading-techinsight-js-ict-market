@@ -1,0 +1,69 @@
+--------------------------------------------------------------
+|							     |
+| Tech Insight: How JavaScript is dominating the ICT market  |
+|							     |
+--------------------------------------------------------------
+
+1.	How 10 Major Companies Are Using JavaScript
+Article Link: https://blog.ironhack.com/2018/11/30/10-major-companies-using-javascript/
+Now, Can you describe in which component of an online system JavaScript can be used? Give an example for each use.
+
+Answer :
+	JavaScript is used to build the frontend and backend of a website. 
+
+	Companies use more and more Node.js to run the JavaScript on an independant server.
+	This create multiple web application that can be pushed to the user. That increase speed and stability.
+	Building API and data sharing is way more easier on Node.js.
+
+	There is also React. React has been created by Facebook (Meta), it is a library used to bring user interface with multiple UI components.
+	Basically, the whole website runs on React.
+
+	AngularJS is developped by Google. It is open-source like the others and almost all Google's application run on it.
+	Google also developped the most popular JavaScript engine : Chrome.
+
+--------------------------------------------------------------
+
+2.	The Five Top Reasons to Use JavaScript
+Article Link: https://www.geeksforgeeks.org/top-5-reasons-to-learn-javascript/
+Now, Can you share with us from your point of view why to use JavaScript?
+
+Answer :
+	First of all, JavaScript can be used almost anywhere. You can build Web, Mobile, and Desktop application. It is also used in the Blockchain technology which is clearly a part of our future.
+	It is used to build the design of things. I could name everything JS does but it could take a while !
+	It can be with small or large companies, it can be with bank companies or with video games companies.
+	It is a very common and used language. It is easy to make it work because it is easy to test with almost any computer.
+	It is also easy to learn with practice of course.
+
+--------------------------------------------------------------
+
+3.	Uses of JavaScript
+Article Link: https://www.educba.com/uses-of-javascript/
+Now, How JavaScript is used to build smartwatch applications?
+
+Answer :
+	JavaScript use the Pebble JS library to build smartwatch application.
+	The framework works with those applications that need internet to be able to work.
+
+--------------------------------------------------------------
+
+4.	Examples of JavaScript
+Article Link: https://www.creativebloq.com/web-design/examples-of-javascript-1233964
+Now, what application of the mentioned applications you want to create on your own? Why?
+
+Answer :
+	The one application that caught my eye was the Wrap Genius.
+	It is clearly something nice to create and the data in this website seems very useful.
+	Not that I would build an application identical as this one but I am currently building a Weather Station website.
+	Using data from my Raspberry and ESP32, it will push the data to my website to bring me a view of my weather stations around Alberta.
+	I am mostly data driven so this project will be fun to create !
+
+
+
+
+
+
+
+
+
+
+
